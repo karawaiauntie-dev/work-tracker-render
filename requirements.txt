@@ -1,0 +1,6 @@
+python-telegram-bot>=20.8
+flask>=3.0
+python-dotenv>=1.0
+requests>=2.31
+flask-socketio
+tzdata; platform_system == "Windows"

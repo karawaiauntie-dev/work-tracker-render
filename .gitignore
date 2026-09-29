@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+backups/
+.owner.env
+*.zip
+*.bak
+*.diff
+*.lnk
+*.code-workspace
+app_backup.py
+test-output-*.txt
